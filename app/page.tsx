@@ -52,7 +52,7 @@ export default function App() {
         ))}
       </ul>
       <button onClick={signOut}>
-        Cerrar Sesion
+        Cerrar Sesion De Nuevo
       </button>
       <div>
         🥳 App successfully hosted. Try creating a new todo.
